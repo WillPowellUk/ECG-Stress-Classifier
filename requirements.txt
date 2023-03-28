@@ -4,3 +4,4 @@ neurokit2
 matplotlib
 ipympl
 sklearn
+seaborn
