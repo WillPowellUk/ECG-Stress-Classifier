@@ -1,2 +1,3 @@
-Data
+Data/*
+!Data/Spider/Subjective Ratings.txt
 playground.py
