@@ -6,5 +6,5 @@ neurokit2
 matplotlib
 ipympl
 seaborn
-imblearn
+imblearn    
 ipykernel
