@@ -4,7 +4,7 @@ tensorflow
 scikit-learn
 neurokit2
 matplotlib
-ipympl
 seaborn
 imblearn    
 ipykernel
+ipympl
